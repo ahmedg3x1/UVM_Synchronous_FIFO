@@ -1,0 +1,17 @@
+../RTL/FIFO.sv
+../RTL/FIFO_interface.sv
+FIFO_SVA.sv
+../UVM/FIFO_config_obj.sv
+../UVM/FIFO_sequence_item.sv
+../UVM/FIFO_write_only_sequence.sv
+../UVM/FIFO_read_only_sequence.sv
+../UVM/FIFO_write_read_sequence.sv
+../UVM/FIFO_cover.sv
+../UVM/FIFO_scoreboard.sv
+../UVM/FIFO_sequencer.sv
+../UVM/FIFO_driver.sv
+../UVM/FIFO_monitor.sv
+../UVM/FIFO_agent.sv
+../UVM/FIFO_env.sv
+../UVM/FIFO_test.sv
+../RTL/top.sv
